@@ -1,6 +1,6 @@
 # 🔌 Chrome Extension - Gemini AI Powered Website Summary 
 
-A simple Chrome extension that integrates with the Gemini API to assist users using AI, directly from any website.
+A simple Chrome extension that integrates with the Gemini API to summarize the content of a webiste, directly from the website.
 
 ---
 
